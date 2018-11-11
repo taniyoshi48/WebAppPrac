@@ -108,6 +108,7 @@ var _getNationalHolidaysArray = function () {
         {"color" : "red", "start" : "2018-09-24", "title" : "休日" },
         {"color" : "red", "start" : "2018-10-08", "title" : "体育の日" },
         {"color" : "red", "start" : "2018-11-03", "title" : "文化の日" },
+        {"color" : "blue", "start" : "2018-11-21", "title" : "3部部会" },
         {"color" : "red", "start" : "2018-11-23", "title" : "勤労感謝の日" },
         {"color" : "red", "start" : "2018-12-23", "title" : "天皇誕生日" },
         {"color" : "red", "start" : "2018-12-24", "title" : "休日" },
