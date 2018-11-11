@@ -9,6 +9,9 @@
   "scripts": {
     "start": "node server.js"
   },
+  "engines": {
+    "node": ">=6"
+  },
   "author": "Hoshimado",
   "license": "MIT",
   "dependencies": {
